@@ -141,16 +141,16 @@ The dashboard helps identify **claim spikes, high-risk segments, and profitabili
 Due to file size limitations on GitHub, some project files are hosted externally.
 
 Power BI Dashboard (.pbix):  
-Add Google Drive Link Here
+(https://drive.google.com/file/d/1StAI3wT5aYgBKoOEb7a78eiRZWgU3moC/view?usp=sharing)
 
 Policy Sales Dataset:  
-Add Google Drive Link Here
+(https://drive.google.com/file/d/1NmeaRV5Oujr0_6zfm6NiKUolMTKvlZ3n/view?usp=sharing)
 
 Claims Dataset 2025:  
-Add Google Drive Link Here
+(https://drive.google.com/file/d/1x21vmWODOTT_9dONE4IHKDR3R70wTD7v/view?usp=sharing)
 
 Claims Dataset 2026:  
-Add Google Drive Link Here
+(https://drive.google.com/file/d/1DDCN5q7rtuVi-7YKZ5GFTygxuc3YnVO9/view?usp=sharing)
 
 ---
 
